@@ -10,3 +10,5 @@ jobs:
       - uses: actions/setup-node@v3
       - run: npm install -g serverless
       - run: sls deploy
+
+// Updated 2022-06-02
