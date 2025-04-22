@@ -1,0 +1,7 @@
+﻿{
+  "name": "serverless-ci-cd",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "sls deploy"
+  }
+}
